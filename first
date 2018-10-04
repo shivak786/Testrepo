@@ -1,3 +1,8 @@
 This is first test file
 This is my remote commit
+<<<<<<< Updated upstream
 This is remote change to test stash
+=======
+This is the local change
+
+>>>>>>> Stashed changes
